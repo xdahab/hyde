@@ -1,6 +1,6 @@
 ---
-title: Projects
-description: 지금까지 작업했던 프로젝트를 모아놓은 곳입니다.
+title: Projekte
+description: Umgesetze Entwicklungsprojekte
 permalink: projects
 visible: true
 ---
@@ -26,7 +26,7 @@ visible: true
       <h2 class="hyde post-title">{{ project.title }}</h2>
     </a>
     <div class="hyde post-trail">
-      <span class="hyde post-date">{{ project.date | date: '%Y년 %-m월 %-d일' }}</span>
+      <span class="hyde post-date">{{ project.date | date: '%Y' }}</span>
     </div>
   </div>
   {% else %} {% include empty.html %} {% endfor %}

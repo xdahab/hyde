@@ -1,17 +1,17 @@
-title: Hyde
+title: Nicolas Breining
 description: >-
-  Build your own portfolio <br>
-  with Hyde.
-url: "https://chemistryx.github.io"
-baseurl: "/hyde"
-github: ChemistryX
-email: changeme@chemistryx.me
+  Softwareentwickler, <br>
+  Student, Unternehmer.
+url: "https://github.com/xdahab"
+baseurl: ""
+github: xdahab
+email: nico.30081999@gmail.com
 google_analytics: "UA_TOKEN"
 
 exclude: [README.md, Gemfile, Gemfile.lock]
 
 comments:
-  enabled: true
+  enabled: false
   repo: "REPO_COMMENTS_PATH"
   issue-term: pathname
 

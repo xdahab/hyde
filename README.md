@@ -21,7 +21,7 @@ bundle install
 ```yaml
 title: Hyde
 description: >-
-  Build your own portfolio <br>
+  Soft your own portfolio <br>
   with Hyde.
 url: "https://chemistryx.github.io/hyde"
 github: ChemistryX
